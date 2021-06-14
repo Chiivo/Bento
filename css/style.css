@@ -69,9 +69,10 @@ body {
   right: 0;
   top: 0;
   color: var(--fg);
-  border: none;
+  border: 2px;
+  border-radius: 10px;
   cursor: pointer;
-  background-color: #00000000;
+  background-color: #f5d1c8;
 }
 
 #themeButton__icon {
